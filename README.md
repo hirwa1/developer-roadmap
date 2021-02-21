@@ -46,7 +46,7 @@ If you think that these can be improved in any way, please do suggest.
 
 [![](https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/frontend-roadmap) [![](https://img.shields.io/badge/-Shareable%20Link%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/frontend)
 
-![Frontend Roadmap](./img/frontend.png?year-2021-2)
+![Frontend Roadmap](./img/frontend.png?year-2021-2) <h1>Hirwa</h1>
 
 ## Back-end Roadmap 
 
